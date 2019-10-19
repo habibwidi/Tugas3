@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569839829 source:g:\game prog\sufle\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1571514957 source:d:\game prog\sufle\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+
